@@ -1,0 +1,7 @@
+Trying to predict profit of opening new branch of restaurant based on number of population and profit of branch. 
+Process of solving problem:
+  -	Loading data
+  -	Use 75% of data as learn data and 25% as testing data
+  -	showing data 
+  -	find prediction line
+  -	find MSE 
